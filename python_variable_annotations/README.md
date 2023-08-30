@@ -1,1 +1,1 @@
-Hello Typing
+Hello
